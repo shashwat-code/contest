@@ -26,7 +26,7 @@ using namespace std;
 
  }
 int main(){
-	cout<<getMaximumGenerated(0);
-
+	int n;cin>>n;
+	cout<<getMaximumGenerated(n);
 	return 0;
 }
